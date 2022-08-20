@@ -6,7 +6,7 @@ something more stylish. I also really like Asu's glasses. I want to get some sor
 I just feel lost. I don't know what I like. I feel like I haven't discovered something I'm passionate about. I don't like coding. I just view it as a tool to accomplish
 other things. I'm not crazy about physics, but I'd say I like it more than CS. Math is OK with me, but I'm not too crazy over it. I like math more than the other two. But forget about all the future career hopes, I just feel lost in general.
 
-I miss my grandfather. I wish I could have took oneo year off from school and just spent time with him. I'll really go the rest of my life without knowing that I
+I miss my grandfather. I wish I could have took oneo year off from school and just spent time with him. Wish I could have went to college there. I'll really go the rest of my life without knowing that I
 made a connection with him. The only thing I will know is that I didn't try to make a connection with him. I really wonder if he remembers me. What I meant to him, if anything.
 
 i just feel hopeless in so many things I do nowadays. I know I have college in a month, but it's just not at the forefront of my mind. I feel like I could die right now and
