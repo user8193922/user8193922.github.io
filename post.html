@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>post</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a href="index.html">&larr; back</a>
+  <div id="content"></div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    const post = new URLSearchParams(location.search).get('p');
+    if (post) {
+      fetch(`posts/${post}.md`)
+        .then(r => r.text())
+        .then(md => document.getElementById('content').innerHTML = marked.parse(md));
+    }
+  </script>
+</body>
+</html>
